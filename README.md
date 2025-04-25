@@ -1,7 +1,7 @@
 ## Olá!!👋 Me chamo Grazielle!
 
-- 🔭 Sou Estudante!
-- 🌱 Estou estudando no CEUB
+- 🔭 Estudante do CEUB!
+- 🌱 Ciências da Computação
 - 🤔 Aprendendo a programar em C
   
 <p align="center">
