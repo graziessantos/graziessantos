@@ -2,10 +2,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7aa2bac2-52b9-4765-a443-9f6dd95bcf6d" alt="imagem bonitona">
-</p>
+  
+![image](https://github.com/user-attachments/assets/99f9cac4-e8d1-41da-bfa1-6ca6e0575a7b)
 
 
 ## Olá!!👋 Me chamo Grazielle!
@@ -29,7 +27,7 @@
 
 ##
 <div align="center">
-<a href="mailto:grazielle.ssantos@sempreceub.com">
+<a href="mailto:grazie.santoss467@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/grazielle-santana-dos-santos-24149b362/" target="_blank">
