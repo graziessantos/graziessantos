@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá!!👋 Me chamo Grazielle!
 
-<!--
-**graziessantos/graziessantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou Estudante!
+- 🌱 Estou estudando no CEUB
+- 🤔 Aprendendo a programar em C
+  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=graziessantos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graziessantos&layout=compact&langs_count=6&theme=synthwave"/>
+</p>
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/user-attachments/assets/3af8613f-44ca-4375-90f2-188524819cb9" alt="Grazi" width="150" align="right" style="margin-top: -20px;">
+
+##
+
+<a href="mailto:grazielle.ssantos@sempreceub.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/grazielle-santana-dos-santos-24149b362/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
