@@ -25,7 +25,7 @@
 
 <img src="https://github.com/user-attachments/assets/3af8613f-44ca-4375-90f2-188524819cb9" alt="Grazi" width="150" align="right" style="margin-top: -20px;">
 
-##
+## Me siga nas outras redes sociais!
 <div align="center">
 <a href="mailto:grazie.santoss467@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
