@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c1c873fc-91b0-406b-8127-06d399b3d2d9" />
+
 
 <!--
 **graziessantos/graziessantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
