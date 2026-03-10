@@ -1,4 +1,4 @@
-## Hi there <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c1c873fc-91b0-406b-8127-06d399b3d2d9" />
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
 
 <!--
